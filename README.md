@@ -1,8 +1,14 @@
 Credit_Card_Financial_Report
+
 Power BI Dashboard
+
 Dataset-Financial Dataset
+
 Project Objective -  To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
-Steps: Used Dax Quesry and Measures to generate new coloumn. 
+
+Steps: Used Dax Quesry and Measures to generate new coloumn.
+
+
 Insights: WoW change:
 • Revenue increased by 28.8%, 
 • Total Transaction Amt & Count 45M & x656K
